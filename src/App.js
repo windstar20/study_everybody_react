@@ -33,7 +33,7 @@ class App extends Component {
     });
     // API를 통해서 서버로 오류 내용 날리기
   }
-
+  //test
   render() {
       if(this.state.error) {
         return (
